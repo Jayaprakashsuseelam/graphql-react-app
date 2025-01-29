@@ -1,7 +1,7 @@
 # GraphQL React App
 
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)  
-![GraphQL Logo](https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="100" height="100">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL Logo" width="100" height="100">  
 
 A modern **React** application using **GraphQL** for efficient data fetching and state management. This project is built with **React, Apollo Client, and GraphQL** to demonstrate seamless API integration.
 
